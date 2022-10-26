@@ -8,3 +8,4 @@ scp
 pysftp
 configparser
 urllib3
+pyjwt
